@@ -28,6 +28,11 @@ ul,li{
     line-height: normal;
 }
 
+.container-playlist{
+    border: 1px solid magenta;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
 
 .navbar{
     height: 75px;
