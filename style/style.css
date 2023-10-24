@@ -17,6 +17,12 @@ body{
     position: absolute;
 }
 
+.container-button{
+    display: flex;
+    justify-content: flex-end;
+    padding: 1.5rem;
+}
+
 
 .container-vertical{
     border: 1px solid red;
