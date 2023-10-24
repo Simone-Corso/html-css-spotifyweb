@@ -24,6 +24,7 @@ body{
 }
 
 
+
 .container-vertical{
     border: 1px solid red;
     margin-left: 1rem;
@@ -42,15 +43,22 @@ ul,li{
     margin-top: 2rem;
 }
 
+.button-effettua{
+    border-radius: 2rem;
+    padding: 0.8rem;
+    width: 10%;
+}
+
+.span{
+    font-size: 18px;
+}
+
 .navbar{
     height: 75px;
     border: 2px solid black;
     background-color: red;
 }
 
-.button-upgrade{
-    border: 1px solid orange;
-}
 
 .play{
     height: 75px;
