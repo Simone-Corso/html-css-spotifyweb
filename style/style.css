@@ -16,6 +16,17 @@ body{
     background-color: black;
 }
 
+.container-vertical{
+    border: 1px solid red;
+}
+
+ul,li{
+    color: white;
+    list-style-type: none;
+    line-height: normal;
+}
+
+
 .navbar{
     height: 75px;
     border: 2px solid black;
