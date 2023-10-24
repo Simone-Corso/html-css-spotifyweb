@@ -10,8 +10,15 @@ body{
     font-family: 'PT Sans', sans-serif;
 }
 
-.navigation{
+.playlist{
     height: 1000px;
     width: 250px;
     border: 2px solid black;
+    background-color: black;
+}
+
+.navbar{
+    height: 75px;
+    border: 2px solid black;
+    background-color: red;
 }
