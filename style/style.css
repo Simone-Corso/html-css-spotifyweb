@@ -10,14 +10,8 @@ body{
     font-family: 'PT Sans', sans-serif;
 }
 
-.container-playlist{
-    width: 220px;
-    height: 1000px;
-    border: 2px solid black;
-}
-
 .navigation{
-    height: 75px;
-    width: 100%;
+    height: 1000px;
+    width: 250px;
     border: 2px solid black;
 }
