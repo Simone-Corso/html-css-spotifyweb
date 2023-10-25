@@ -35,12 +35,16 @@ footer{
 }
 
 @media screen and (max-width: 992px){
-
+    header#sidebar{
+        background-color: brown;
+    }
 }
 
 
 @media screen and (max-width : 768px){
-
+    header#sidebar{
+        background-color: violet;
+    }
 }
 
 
