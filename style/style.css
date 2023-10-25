@@ -11,6 +11,8 @@ body{
 }
 
 div.wrapper{
+    display: flex;
+    flex-wrap: wrap;
 
 }
 
