@@ -36,14 +36,22 @@ footer{
 
 @media screen and (max-width: 992px){
     header#sidebar{
+        width: 80px;
         background-color: brown;
+    }
+    main{
+        width: calc(100% - 80px);
     }
 }
 
 
 @media screen and (max-width : 768px){
     header#sidebar{
+        width: 80px;
         background-color: violet;
+    }
+    main{
+        width: calc(100% - 80px);
     }
 }
 
