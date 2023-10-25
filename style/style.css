@@ -16,7 +16,7 @@ div.wrapper{
 
 }
 
-header{
+header#sidebar{
     background-color: aquamarine;
     width: 260px;
     height: calc(100vh - 90px);
