@@ -45,5 +45,11 @@ footer{
 
 
 @media screen and (max-width: 576px){
+    header#sidebar{
+        width: 80px;
 
+    }
+    main{
+        width: calc(100% - 80px);
+    }
 }
