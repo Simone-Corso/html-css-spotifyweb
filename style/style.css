@@ -35,6 +35,12 @@ footer{
     height: 90px;
 }
 
+.container-20{
+    border: 1px solid magenta;
+    height: 90px;
+    width: 20%;
+}
+
 @media screen and (max-width: 992px){
     header#sidebar{
         background-color: #000000;
