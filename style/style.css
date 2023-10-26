@@ -90,6 +90,9 @@ header#sidebar{
     height: 79px;
 }
 
+.sinister{
+    height: 100%;
+}
 
 main{
     background-color: #141922;
