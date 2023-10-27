@@ -26,11 +26,12 @@ ul,li{
 }
 
 .button-upgrade{
-    border: none;
+    border-color: white;
     padding: 0.8rem;
     border-radius: 2rem;
     width: 200px;
-    font-size: 18px;
+    background-color: #080B12;
+    color: white;
 }
 
 .titolo-recently{
