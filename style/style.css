@@ -25,6 +25,14 @@ ul,li{
     padding: 2rem;
 }
 
+.button-upgrade{
+    border: none;
+    padding: 0.8rem;
+    border-radius: 2rem;
+    width: 200px;
+    font-size: 18px;
+}
+
 .titolo-recently{
     border: 1px solid magenta;
     background-color: #141922;
