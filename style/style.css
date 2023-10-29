@@ -159,21 +159,25 @@ footer{
     width: 60%;
 }
 
-@media screen and (max-width: 992px){
+@media screen and (min-width: 992px){
     header#sidebar{
         background-color: #000000;
+        width: 220px;
     }
 
     .container-quadratoni{
+    }
+
+    .container-album{
 
     }
     .image-album{
-        
+
     }
 }
 
 
-@media screen and (max-width : 768px){
+@media screen and (min-width : 768px){
     header#sidebar{
         background-color: #000000;
     }
@@ -181,14 +185,6 @@ footer{
 }
 
 
-@media screen and (max-width: 576px){
-    header#sidebar{
-        width: 80px;
-        background-color: #000000;
-        background-image: url(../img/logo-small.svg);
-
-    }
-    main{
-        width: calc(100% - 80px);
-    }
+@media screen and (min-width: 576px){
+   
 }
